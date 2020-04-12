@@ -72,7 +72,7 @@ public class Calculator3 {
                     break;
 
                 case 5:
-                    System.out.println("God bye!");
+                    System.out.println("Good bye!");
                     scanner.close();
                     run = false;
                     break;
